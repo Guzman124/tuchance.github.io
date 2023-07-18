@@ -1,0 +1,19 @@
+header{ 
+    color: rgb(10, 10, 17);
+    font-size: 100px
+}
+body{
+    background-color: aqua;
+}
+    .container {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        height: 50vh; /* Ajusta la altura según tus necesidades */
+      }
+#boton1{
+    color:#E59866;
+}
+h3{
+    align-items: center;
+}
